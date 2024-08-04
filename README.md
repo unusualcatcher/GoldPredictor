@@ -1,6 +1,6 @@
 # Diabetes Prediction Web App
 
-This is a Django web application designed to predict whether a user has diabetes based on input data using a Support Vector Classification (SVC) model.
+This is a django project that predicts the price of gold using the Random Forest Regressor ML model.
 
 ## Features
 
