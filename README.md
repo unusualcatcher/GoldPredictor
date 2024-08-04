@@ -5,7 +5,7 @@ This is a django project that predicts the price of gold using the Random Forest
 ## Features
 
 - User-friendly web interface for inputting data
-- Predictive model based on SVC
+- Random Forest Regression Tree Model
 - Real-time prediction results
 
 ## Technologies Used
