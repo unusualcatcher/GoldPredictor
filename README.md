@@ -1,4 +1,4 @@
-# Diabetes Prediction Web App
+# Gold Price Prediction Web App
 
 This is a django project that predicts the price of gold using the Random Forest Regressor ML model.
 
