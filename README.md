@@ -49,7 +49,7 @@ To run this project, you need to install the following Python packages:
 8. Open your browser and go to http://127.0.0.1:8000/ to access the application.
 
 ## Jupyter Notebook
-There is a jupyter notebook in this file that was used for training the model. It includes each step taken to train the model.
+There is a jupyter notebook in this project that was used for training the model. It includes each step taken to train the model.
 
 ## Acknowledgements
 The Machine Learning model in this project was trained using the data set provided by kaggle. It is avaible at: https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data/data
