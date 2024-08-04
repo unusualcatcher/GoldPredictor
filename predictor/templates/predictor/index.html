@@ -68,11 +68,13 @@
 
 <div class="container mt-5">
     <div class="form-container">
-        <div class="alert alert-success" role="alert" style="margin-bottom: 25px;">
-            <b>Price of gold according to the data entered: 
-            <span class="fw-bold">${{ output }} per ounce</span>
-            </b>
-        </div>
+        {% if output %}
+            <div class="alert alert-success" role="alert" style="margin-bottom: 25px;">
+                <b>Price of gold according to the data entered: 
+                <span class="fw-bold">${{ output }} per ounce</span>
+                </b>
+            </div>
+        {% endif %}
         
         <h2 class="text-center">Market Data Input Form</h2>
         <form method="post">
